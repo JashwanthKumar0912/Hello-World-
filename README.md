@@ -1,2 +1,2 @@
-# Hello-World-
-This Program is to print hello world in the user interface
+# Printing problems
+This repostitry is examples of print statents 
